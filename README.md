@@ -10,6 +10,7 @@ class SoftwareDeveloper:
     def __init__(self):
         self.name = "Jesus Ali Rios O."
         self.role = "Software Developer"
+        self.experience = 17
         self.language_spoken = ["pt-br", "en-us", "es-es"]
 
     def say_hi(self):
@@ -26,7 +27,7 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: http://alirios.pythonanywhere.com//
+- Personal website and blog: http:/alirios.pythonanywhere.com/
 
 ## 🔧 Technologies & Tools
 
